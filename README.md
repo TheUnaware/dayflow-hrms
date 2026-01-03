@@ -9,4 +9,3 @@ A Human Resource Management System built using React and Firebase.
 - Admin approval panel
 
 Built for hackathon 🚀
-
